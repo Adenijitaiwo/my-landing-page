@@ -56,7 +56,7 @@ header .nav-link:hover {
 
 /* Section */
 .main-content {
-  background: url(image/t.jpg);
+  background: url(t.jpg);
   background-position: center;
   background-size: cover;
 }
